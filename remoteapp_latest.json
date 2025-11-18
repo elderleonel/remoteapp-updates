@@ -1,7 +1,7 @@
 {
-  "app_code": "remoteapp",
-  "latest_version": "1.0.0",
-  "download_url": "https://github.com/elderleonel/remoteapp-updates/releases/download/v1.0.0/remoteapp-1.0.0.exe",
-  "is_forced": false,
-  "notes": "Primeira versão pública do Remote.app"
+  "app_code": "01",
+  "latest_version": "1.0.3",
+  "download_url": "https://github.com/elderleonel/remoteapp-updates/raw/main/dist/01-1.0.3.exe",
+  "is_forced": true,
+  "notes": "teste"
 }
